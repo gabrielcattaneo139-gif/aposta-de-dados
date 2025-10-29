@@ -29,13 +29,13 @@
 
 ## 2. Diagrama de Classes
 
-![Diagrama de Classes](./imagens/diagrama de classes.jpeg)
+![Diagrama de Classes](./imagens/diagramadeclasses.jpeg)
 
 ---
 
 ##  3. Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](./imagens/Diagrama_de_casos_de_uso.jpeg)
+![Diagrama de Casos de Uso](./imagens/Diagramadecasosdeuso.jpeg)
 
 ---
 
