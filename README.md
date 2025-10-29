@@ -44,8 +44,8 @@
 ```
  sistema-jogo-de-dados
  ┣  imagens
- ┃ ┣ diagrama_classes.jpeg
- ┃ ┗ diagrama_casos_de_uso.jpeg
+ ┃ ┣ diagramadeclasses.png
+ ┃ ┗ Diagrama_de_casos_de_uso.jpeg
  ┣  README.md
 ```
 
