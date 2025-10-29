@@ -44,7 +44,6 @@
 ```
  sistema-jogo-de-dados
  ┣  imagens
- ┃ ┣ levantamento_requisitos.jpeg
  ┃ ┣ diagrama_classes.jpeg
  ┃ ┗ diagrama_casos_de_uso.jpeg
  ┣  README.md
