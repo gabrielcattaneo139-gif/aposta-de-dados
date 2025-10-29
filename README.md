@@ -53,6 +53,6 @@
 ---
 
 ##  Link do Repositório
-> [https://github.com/seu-usuario/sistema-jogo-de-dados](https://github.com/seu-usuario/sistema-jogo-de-dados)
+> [https://github.com/seu-usuario/sistema-jogo-de-dados]([https://github.com/seu-usuario/sistema-jogo-de-dados](https://github.com/gabrielcattaneo139-gif/aposta-de-dados.git))
 
 ---
